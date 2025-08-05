@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md && git add README.md && git commit -m "Add README for Air Canvas project" && git push
+
 # Air Canvas ✍️🖐️
 
 This project lets you draw in the air using hand gestures, just like Doctor Strange summoning spells… but with Python and OpenCV instead of magic.
@@ -36,4 +36,4 @@ python air_canvas.py
 - Fun interactive drawing app
 - Beginner CV/gesture control project
 - Great for showing off nerd skills on social media 😎
-EOF
+
